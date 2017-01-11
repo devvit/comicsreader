@@ -1,0 +1,24 @@
+Version 2.2
+
+- Translators names in About...
+- Added a lot of new translations
+- Don't resize a page under a specific size
+- Fixed craches related to memory
+- Converted project to Android Studio
+
+Version 2.0
+
+- Partnership with BDZ Mag (http://www.bdzmag.com/) and download "Pirate ta BD !" comics from bookmarks
+- Fullscreen without navigation bar under Android 3.x and + (use swipe to the top to show the ActionBar with context menu)
+- Support Holo theme under Android 3.x and +
+- Support for immersive mode under Android 4.4 and +
+- Completely rewrote images loading algorithm
+- Allow application to use more memory if device supports it
+- Allow to change page by touching left or right borders
+- Experimental auto-rotate option by Jules Blok
+- Natural pages order by Jules Blok
+- Updated unrar version
+- Don't process CBR files if unrar JNI can't be loaded
+- New translations in Greek, Galician, Italian, Polish, Russian and Portuguese (contributors name in About...)
+- Quit button
+- Fixed a lot of crashes, bugs and warnings

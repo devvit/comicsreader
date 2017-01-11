@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string-array name="preference_zoom_labels">
+    <item>Ajustar Ancho</item>
+    <item>Ajustar Alto</item>
+    <item>Ajustar Todo</item>
+    <item>100%</item>
+    <item>50%</item>
+    <item>25%</item>
+  </string-array>
+  <string-array name="preference_sample_labels">
+    <item>Automático</item>
+    <item>100%</item>
+    <item>50%</item>
+    <item>25%</item>
+  </string-array>
+  <string-array name="preference_overlay_duration_names">
+    <item>Nunca</item>
+    <item>2 segundos</item>
+    <item>5 segundos</item>
+    <item>10 segundos</item>
+    <item>Siempre</item>
+  </string-array>
+  <string-array name="preference_edges_resistance_names">
+    <item>Ninguno</item>
+    <item>Débil</item>
+    <item>Medio</item>
+    <item>Fuerte</item>
+  </string-array>
+  <string-array name="preference_page_transition_speed_names">
+    <item>Lento</item>
+    <item>Medio</item>
+    <item>Rápido</item>
+  </string-array>
+  <string-array name="preference_device_orientation_names">
+    <item>Automático</item>
+    <item>Vertical</item>
+    <item>Horizontal</item>
+  </string-array>
+</resources>
